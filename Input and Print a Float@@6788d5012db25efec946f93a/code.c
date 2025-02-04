@@ -2,6 +2,6 @@
 
 int main() {
     float MyFloat = 10.99
-    printf("%f",MyFloat);
+    printf("You entered: %f",MyFloat);
     return 0;
 }
