@@ -1,10 +1,8 @@
 #include <stdio.h>
 
-char* welcome() {
-    return "Welcome to Code Radar!";
-}
-
 int main() {
-    printf("%s", welcome());
+    char str1[100],str2[100];
+    scanf("%s %s",&str1,str2)
+    printf("%s and %s",str1,str2);
     return 0;
 }
