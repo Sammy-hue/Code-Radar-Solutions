@@ -7,7 +7,7 @@ int main() {
     if (a = "a,i,o,u,e") {
         printf("Vowel");
     }
-    } else {
+    else {
         printf("Constant");
     }
 
