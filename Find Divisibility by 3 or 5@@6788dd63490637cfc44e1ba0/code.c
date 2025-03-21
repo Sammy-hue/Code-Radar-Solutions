@@ -8,6 +8,9 @@ int main(){
     else if(a / 3 ){
          printf("Divisible by 3");
     }
+    else if(a / 5 ){
+         printf("Divisible by 5");
+    }
     
     return 0;
 }
