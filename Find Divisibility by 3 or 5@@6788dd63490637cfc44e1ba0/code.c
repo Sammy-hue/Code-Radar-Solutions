@@ -5,7 +5,7 @@ int main(){
     if(a / 3 && a / 5 ){
         printf("Divisible by Both");
     }
-    else (a / 3 ){
+    else if(a / 3 ){
          printf("Divisible by 3");
     }
     
