@@ -5,14 +5,14 @@ int main(){
     if(a / 3 && a / 5 ){
         printf("Divisible by Both");
     }
-    else if(a / 3 ){
+    else if(a / 3){
          printf("Divisible by 3");
     }
-    else if(a / 5 ){
+    else if(a / 5){
          printf("Divisible by 5");
     }
     else{
-         printf("Non Divisible");
+         printf("Not Divisible");
     }
     return 0;
 }
