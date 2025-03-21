@@ -5,7 +5,7 @@ int main(){
     if(0 < a < 101){
         printf("In Range");
     }
-   else {printf("Out of Range");
+    else {printf("Out of Range");
     }
     return 0;
 }
