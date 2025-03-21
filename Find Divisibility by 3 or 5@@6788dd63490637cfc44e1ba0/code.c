@@ -2,7 +2,7 @@
 int main(){
     int a,b;
     scanf("%d %d",&a,&b);
-    if(a / 3 && a / 5 ){
+    if((a/3) && (a/5 )){
         printf("Divisible by Both");
     }
     else if(a / 3){
